@@ -1,6 +1,5 @@
 
 ![tike](https://github.com/user-attachments/assets/1f6dce5d-3ac6-4961-8eb8-b118da5e18e3)
-![org](https://github.com/user-attachments/assets/62c88d8b-1d62-4683-af15-5820ced1404c)
 
 <h1>Jigsaw Solver - Computer Vision Assignment 3</h1>
 
@@ -19,6 +18,7 @@ In 3 different size 40, 160, 640 rotated</p>
   <li>Piece matching and reassembly using computational algorithms.</li>
   <li>Visualization of the solved puzzle.</li>
 </ul>
+![org](https://github.com/user-attachments/assets/62c88d8b-1d62-4683-af15-5820ced1404c)
 
 <h2>Technologies Used</h2>
 <ul>
