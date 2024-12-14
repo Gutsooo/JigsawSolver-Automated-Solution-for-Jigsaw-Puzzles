@@ -32,4 +32,5 @@
   <li>Apply feature matching techniques to identify corresponding pieces.</li>
   <li>Reassemble the pieces in the correct order to form the solved puzzle.</li>
   <li>Display the solved puzzle visually for verification.</li>
-</ol>![org](https://github.com/user-attachments/assets/a21b9cbe-de1a-4339-8043-eb84f6855a70)
+</ol>
+![org](https://github.com/user-attachments/assets/30a6ec61-96e1-4ff5-9fda-ee05204780e6)
