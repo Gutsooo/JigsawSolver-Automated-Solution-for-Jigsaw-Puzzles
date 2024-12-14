@@ -2,10 +2,10 @@
 ![tike](https://github.com/user-attachments/assets/1f6dce5d-3ac6-4961-8eb8-b118da5e18e3)
 ![org](https://github.com/user-attachments/assets/62c88d8b-1d62-4683-af15-5820ced1404c)
 
-<h1>Jigsaw Solver - Computer Vision Assignment 3</h1>
+<h1>Jigsaw Solver - Computer Vision Assignment 4</h1>
 
 <p><strong>Course:</strong> Computer Vision</p>
-<p><strong>Assignment:</strong> 3</p>
+<p><strong>Assignment:</strong> 4</p>
 <p><strong>Language:</strong> MATLAB</p>
 
 <h2>Introduction</h2>
